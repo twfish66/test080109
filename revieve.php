@@ -1,3 +1,3 @@
-<?php	
- 	echo "hello i'm nino"	
- 	?>	
+<?php
+echo "hello i'm nino"
+?>
